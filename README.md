@@ -66,3 +66,12 @@ GitHub: [Anand-Reddy-Burra](https://github.com/Anand-Reddy-Burra)
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+
+cat >> README.md <<'EOF'
+
+## 🚀 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://construction-webpage-avesumbvepdebkzhn2rx8j.streamlit.app/)
+
+👉 **[Open the Live Construction Website](https://construction-webpage-avesumbvepdebkzhn2rx8j.streamlit.app/)**
+EOF
